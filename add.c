@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main()
-{int a=10;b=20;
-	printf("add: %d",a+b);
-	return 0;
+{
+     int a=12,b=34;
+     printf("%d",a);
 }
