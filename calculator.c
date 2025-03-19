@@ -12,4 +12,7 @@ int main()
 	div=a/b;
 	printf("Addition of %d and %d =%d",a,b,add);
 	printf("Subtract %d and %d = %d",a,b,subtract);
-
+        printf("Multiply %d and %d =%d",a,b,mult);
+	printf("Division of %d and %d =%d",a,b,div);
+	return 0;
+}
