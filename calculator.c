@@ -8,3 +8,8 @@ int main()
 	scanf("%d",&b);
         add=a+b;
 	subtract=a-b;
+	mult=a*b;
+	div=a/b;
+	printf("Addition of %d and %d =%d",a,b,add);
+	printf("Subtract %d and %d = %d",a,b,subtract);
+
